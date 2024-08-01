@@ -1,0 +1,57 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+pre {
+    color: blue;
+}
+
+h1, h2, h3, h4, h5 {
+    color: red;
+    font-size: 30px;
+}
+
+strong {
+    color: blueviolet;
+}
+
+mark {
+    color: rgb(255, 132, 132);
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+table {
+    border: solid white;
+    width: 30vh;
+}
+
+td, tr, th {
+    border: 3px solid white;
+
+}
+
+th {
+    background-color: green;
+}
+
+dl {
+    border: solid 4px white;
+}
+
+ul {
+    list-style-type: square;
+}
+
+table:nth-child(even) {
+    background-color: red;
+}
+
+iframe {
+    width: 30vw;
+    height: 30vh;
+}
